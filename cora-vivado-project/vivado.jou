@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Dec 15 15:06:32 2023
+# Process ID: 2921438
+# Current directory: /home/fpdo/felipe/work/enter/imec/lidar/cora_custom/vivado/cora_custom_design
+# Command line: vivado cora_custom_design.xpr
+# Log file: /home/fpdo/felipe/work/enter/imec/lidar/cora_custom/vivado/cora_custom_design/vivado.log
+# Journal file: /home/fpdo/felipe/work/enter/imec/lidar/cora_custom/vivado/cora_custom_design/vivado.jou
+# Running On: ubuntu, OS: Linux, CPU Frequency: 2300.000 MHz, CPU Physical cores: 8, Host memory: 16471 MB
+#-----------------------------------------------------------
+start_gui
+open_project cora_custom_design.xpr
+open_bd_design {/home/fpdo/felipe/work/enter/imec/lidar/cora_custom/vivado/cora_custom_design/cora_custom_design.srcs/sources_1/bd/design_1/design_1.bd}
+update_compile_order -fileset sources_1
